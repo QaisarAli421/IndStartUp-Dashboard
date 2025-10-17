@@ -33,7 +33,7 @@ The goal of this project is to make startup funding data **easy to explore**, **
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/indian-startup-dashboard.git
+   [git clone https://github.com/your-username/indian-startup-dashboard.git](https://github.com/QaisarAli421/IndStartUp-Dashboard/tree/master)
    cd indian-startup-dashboard
 python -m venv venv
 source venv/bin/activate      # for Linux/Mac
