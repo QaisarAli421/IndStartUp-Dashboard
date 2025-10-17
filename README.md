@@ -1,6 +1,6 @@
 # 🇮🇳 Indian Startup Dashboard
 
-👉 **Live Demo:** [Click here to view the dashboard](PASTE_YOUR_PRODUCT_LINK_HERE)
+👉 **Live Demo:** [Click here to view the dashboard](https://qaisarali421-indstartup-dashboard-app-exulvq.streamlit.app/)
 
 ---
 
